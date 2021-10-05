@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{1851A956-891D-4A5C-8C15-B84C7C385838}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev", "Dev", "{707302E9-115F-4918-A33F-17CCBF397032}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Db", "Db", "{9AD6B05C-C83E-4385-8B14-CA92C549DC16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{5F2D63B4-75F1-4E74-8D28-C1E606F39781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bleso.Devlop", "Bleso.Devlop\Bleso.Devlop.csproj", "{ACECC82E-5379-463A-971D-B631C9DE69C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACECC82E-5379-463A-971D-B631C9DE69C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACECC82E-5379-463A-971D-B631C9DE69C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACECC82E-5379-463A-971D-B631C9DE69C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACECC82E-5379-463A-971D-B631C9DE69C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ACECC82E-5379-463A-971D-B631C9DE69C7} = {707302E9-115F-4918-A33F-17CCBF397032}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC1A1107-915A-48B5-A86F-26DA80864E6F}
+	EndGlobalSection
+EndGlobal
